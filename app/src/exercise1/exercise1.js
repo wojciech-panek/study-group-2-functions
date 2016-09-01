@@ -1,3 +1,3 @@
-export function forEach () {
+export function forEach() {
   console.log('forEach');
 }
