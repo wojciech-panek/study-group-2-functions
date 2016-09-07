@@ -1,4 +1,4 @@
-import _ from 'ramda';
+import _ from 'lodash';
 
 const forEachRecursive = (collection, iteratee, index = 0) => {
   if (index < collection.length && iteratee(_.nth(collection, index), index, collection) !== false) {
@@ -7,7 +7,7 @@ const forEachRecursive = (collection, iteratee, index = 0) => {
   return collection;
 };
 
-export function forEach(collection, iteratee = _.identity) {
+export function forEach(collection, iteratee = R.identity) {
   forEachRecursive(collection, iteratee);
 }
 
