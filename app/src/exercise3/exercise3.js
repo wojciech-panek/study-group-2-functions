@@ -12,5 +12,8 @@ export function forEach(collection, iteratee = _.identity) {
 }
 
 export function flatMapDeep(collection, iteratee = _.identity) {
-  
+  if (collection.length > 0) {
+    return _.concat(_.flattenDeep([iteratee(_.first(collection))]), flatMapDeep(_.drop(collection), iteratee));
+  }
+  return [];
 }
