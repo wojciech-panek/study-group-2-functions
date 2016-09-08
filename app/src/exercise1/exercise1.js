@@ -33,5 +33,5 @@ export function some(array, callback) {
 }
 
 export function reduceRight(array, callback, accumulator) {
-  return _.reduce(array.reverse(), callback, accumulator);
+  return _.reduce(_.reverse(array), callback, accumulator);
 }
