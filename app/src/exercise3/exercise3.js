@@ -7,7 +7,7 @@ const forEachRecursive = (collection, iteratee, index = 0) => {
   return collection;
 };
 
-export function forEach(collection, iteratee = R.identity) {
+export function forEach(collection, iteratee = _.identity) {
   forEachRecursive(collection, iteratee);
 }
 
