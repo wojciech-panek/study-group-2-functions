@@ -1,11 +1,11 @@
-import R from 'ramda';
+import _ from 'lodash';
 
 const add = (a, b) => a + b;
 
 const less = (a, b) => a < b ? a : b;
 
-export const words = R.split(' ');
+export const words = _.curryRight(_.split)(' ', undefined);
 
-export const arrayAdd = (number, array) => R.map(R.partial(add, [number]), array);
+export const arrayAdd = (number, array) => _.map(array, _.partial(add, number));
 
-export const smallest = R.reduce(less, Infinity);
+export const smallest = _.curryRight(_.reduce)(less, Infinity);
