@@ -1,4 +1,3 @@
-import R from 'ramda';
 import {words, arrayAdd, smallest} from './exercise2';
 
 describe('exercise2', () => {
