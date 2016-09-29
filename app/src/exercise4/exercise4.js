@@ -7,7 +7,7 @@ function averageLengthDisk(album) {
 }
 
 export function avgLengthEvery() {
-  return _.map(data1['media'], item => averageLengthDisk(item));
+  return _.map(data1['media'], averageLengthDisk);
 }
 
 export function avgLengthOverall() {
