@@ -1,0 +1,387 @@
+{
+   "packaging":"Digipak",
+   "text-representation":{
+      "script":"Latn",
+      "language":"eng"
+   },
+   "asin":"B00001P4TH",
+   "media":[
+      {
+         "track-offset":0,
+         "track-count":12,
+         "position":1,
+         "tracks":[
+            {
+               "length":271693,
+               "title":"Somewhat Damaged",
+               "id":"d997b94e-4e7e-3f05-9e81-cf6304b4b81d",
+               "number":"1",
+               "recording":{
+                  "title":"Somewhat Damaged",
+                  "video":false,
+                  "length":271693,
+                  "disambiguation":"",
+                  "id":"6c598944-5449-433b-a1e7-8ad43864b3e9"
+               }
+            },
+            {
+               "number":"2",
+               "recording":{
+                  "id":"7e87ef92-a0f2-4580-a4b3-758a8651926a",
+                  "disambiguation":"original album version",
+                  "title":"The Day the World Went Away",
+                  "length":273666,
+                  "video":false
+               },
+               "id":"5ec6d859-2830-3055-8839-0e0f7138b05f",
+               "length":273666,
+               "title":"The Day the World Went Away"
+            },
+            {
+               "length":114040,
+               "title":"The Frail",
+               "id":"fd12bb16-4a02-3060-8890-7bc4b70a1f5d",
+               "number":"3",
+               "recording":{
+                  "id":"c7fc8324-dd08-406a-824b-5d2146809ccc",
+                  "disambiguation":"",
+                  "title":"The Frail",
+                  "length":114040,
+                  "video":false
+               }
+            },
+            {
+               "recording":{
+                  "length":325893,
+                  "video":false,
+                  "title":"The Wretched",
+                  "disambiguation":"album version",
+                  "id":"52fe12a6-4feb-43ec-889d-bf6e12b0d264"
+               },
+               "number":"4",
+               "title":"The Wretched",
+               "length":325893,
+               "id":"5074c7de-bb8f-3eb2-a024-b0d5cb2f0f17"
+            },
+            {
+               "length":436000,
+               "title":"We’re in This Together",
+               "id":"14f5a305-f6a6-37f3-b6f4-57711be91b4f",
+               "number":"5",
+               "recording":{
+                  "title":"We’re in This Together",
+                  "video":false,
+                  "length":436000,
+                  "disambiguation":"",
+                  "id":"3a50c43e-f2f4-4b8e-86ad-0c4a95cb0c32"
+               }
+            },
+            {
+               "recording":{
+                  "disambiguation":"",
+                  "id":"31f9d824-0899-44c6-a277-a9dd98223bd2",
+                  "video":false,
+                  "length":275466,
+                  "title":"The Fragile"
+               },
+               "number":"6",
+               "title":"The Fragile",
+               "length":275466,
+               "id":"e71caad3-4e6c-333a-91fe-1dd603f69a99"
+            },
+            {
+               "recording":{
+                  "video":false,
+                  "length":229866,
+                  "title":"Just Like You Imagined",
+                  "disambiguation":"",
+                  "id":"bd9509a4-bf2f-4887-81e3-d0fb4bb3fcac"
+               },
+               "number":"7",
+               "id":"baf0392c-9ff7-3365-819d-2bf8f5f301b5",
+               "title":"Just Like You Imagined",
+               "length":229866
+            },
+            {
+               "recording":{
+                  "title":"Even Deeper",
+                  "video":false,
+                  "length":347933,
+                  "disambiguation":"album version",
+                  "id":"52be5d95-91cd-4ace-8ad0-92121d984aff"
+               },
+               "number":"8",
+               "title":"Even Deeper",
+               "length":347933,
+               "id":"57ef92a9-5851-3a76-a436-59789195cea9"
+            },
+            {
+               "length":211933,
+               "title":"Pilgrimage",
+               "id":"4c4eb42f-f08c-35f3-bcd3-4e41a7781e4c",
+               "number":"9",
+               "recording":{
+                  "disambiguation":"album version",
+                  "id":"681ff2a6-f849-49fa-b9d7-d0f78edb943e",
+                  "title":"Pilgrimage",
+                  "video":false,
+                  "length":211933
+               }
+            },
+            {
+               "length":215933,
+               "title":"No, You Don’t",
+               "id":"296c677d-c6f5-3238-9cfd-9a51230aaf22",
+               "number":"10",
+               "recording":{
+                  "title":"No, You Don’t",
+                  "length":215933,
+                  "video":false,
+                  "id":"11ddfc88-6548-4509-915c-032462ff412f",
+                  "disambiguation":""
+               }
+            },
+            {
+               "id":"8e162089-7d5d-3020-8c0d-72122598e904",
+               "length":277866,
+               "title":"La Mer",
+               "number":"11",
+               "recording":{
+                  "title":"La Mer",
+                  "video":false,
+                  "length":277866,
+                  "id":"e1839839-f55e-40dc-b148-d44128d51f36",
+                  "disambiguation":"album version"
+               }
+            },
+            {
+               "number":"12",
+               "recording":{
+                  "title":"The Great Below",
+                  "length":317173,
+                  "video":false,
+                  "disambiguation":"",
+                  "id":"76018f0e-ef4f-409f-a5b7-2625be939474"
+               },
+               "id":"ea0328d0-24b8-3f36-b5d6-6989e0fb516b",
+               "length":317173,
+               "title":"The Great Below"
+            }
+         ],
+         "format":"CD",
+         "format-id":"9712d52a-4509-3d4b-a1a2-67c88c643e31",
+         "title":"Left"
+      },
+      {
+         "track-count":11,
+         "track-offset":0,
+         "title":"Right",
+         "format-id":"9712d52a-4509-3d4b-a1a2-67c88c643e31",
+         "position":2,
+         "tracks":[
+            {
+               "title":"The Way Out Is Through",
+               "length":259413,
+               "id":"0cd5262f-aacc-3ca1-893d-13a55a40494e",
+               "recording":{
+                  "id":"b2d72285-a8f9-41e6-98b2-af90ba477a71",
+                  "disambiguation":"",
+                  "title":"The Way Out Is Through",
+                  "length":259413,
+                  "video":false
+               },
+               "number":"1"
+            },
+            {
+               "recording":{
+                  "video":false,
+                  "length":291293,
+                  "title":"Into the Void",
+                  "id":"9998cbc4-a74d-40ef-9313-8a4fbca23ce3",
+                  "disambiguation":""
+               },
+               "number":"2",
+               "title":"Into the Void",
+               "length":291293,
+               "id":"8ef1b9a5-5953-3d9e-9d32-b1210586a25a"
+            },
+            {
+               "number":"3",
+               "recording":{
+                  "disambiguation":"",
+                  "id":"d301294e-738c-4078-8020-550918acc5ad",
+                  "video":false,
+                  "length":342186,
+                  "title":"Where Is Everybody?"
+               },
+               "id":"35620be7-2dec-3a01-ae8e-75bdab3c60c2",
+               "length":342186,
+               "title":"Where Is Everybody?"
+            },
+            {
+               "number":"4",
+               "recording":{
+                  "video":false,
+                  "length":317146,
+                  "title":"The Mark Has Been Made",
+                  "id":"a0d8186c-6b85-43b6-b165-13e4b3095717",
+                  "disambiguation":"album version"
+               },
+               "length":317146,
+               "title":"The Mark Has Been Made",
+               "id":"9a11c1a3-4d24-361e-adb0-cd2c23eea355"
+            },
+            {
+               "length":212693,
+               "title":"Please",
+               "id":"f2953eb2-5ac3-3b83-bb20-0d1f7d606d0b",
+               "number":"5",
+               "recording":{
+                  "video":false,
+                  "length":212693,
+                  "title":"Please",
+                  "id":"067518ec-2001-442b-9c7e-ea3505f8d7d6",
+                  "disambiguation":""
+               }
+            },
+            {
+               "length":302213,
+               "title":"Starfuckers, Inc.",
+               "id":"0840d306-6753-38dd-81a7-80cbc90f618d",
+               "number":"6",
+               "recording":{
+                  "length":302213,
+                  "video":false,
+                  "title":"Starfuckers, Inc.",
+                  "id":"36acbb37-54ae-4971-9ade-5451944bdf55",
+                  "disambiguation":""
+               }
+            },
+            {
+               "recording":{
+                  "disambiguation":"",
+                  "id":"a20d61f9-abcc-48c2-8412-86c10f9c2d7f",
+                  "title":"Complication",
+                  "video":false,
+                  "length":152760
+               },
+               "number":"7",
+               "title":"Complication",
+               "length":152760,
+               "id":"7188faf1-7aeb-38a2-b1d7-12f219151cd8"
+            },
+            {
+               "id":"bc04706e-b9cf-32aa-b48d-765dd62de112",
+               "title":"I’m Looking Forward to Joining You, Finally",
+               "length":255346,
+               "recording":{
+                  "title":"I’m Looking Forward to Joining You, Finally",
+                  "length":255346,
+                  "video":false,
+                  "disambiguation":"album version",
+                  "id":"be16d321-c36c-4ca0-805b-1dd0f3fcd86a"
+               },
+               "number":"8"
+            },
+            {
+               "number":"9",
+               "recording":{
+                  "title":"The Big Come Down",
+                  "length":254853,
+                  "video":false,
+                  "id":"bd4fa695-d1d1-48d3-b0f0-9d4481d80bd4",
+                  "disambiguation":""
+               },
+               "length":254853,
+               "title":"The Big Come Down",
+               "id":"4fd5fba6-734d-3377-a895-8795e7ac0c45"
+            },
+            {
+               "length":168120,
+               "title":"Underneath It All",
+               "id":"139f5f81-10f1-35d8-8913-b83c68b0c2f0",
+               "number":"10",
+               "recording":{
+                  "title":"Underneath It All",
+                  "video":false,
+                  "length":168120,
+                  "disambiguation":"",
+                  "id":"a5765714-dede-431a-a5fc-19ee26c1b382"
+               }
+            },
+            {
+               "id":"9b0be863-3cf7-3cda-9542-4a9eaee144bd",
+               "length":394320,
+               "title":"Ripe (With Decay)",
+               "number":"11",
+               "recording":{
+                  "disambiguation":"",
+                  "id":"77d49d0b-418e-4b8f-88af-e0933e6da21d",
+                  "length":394320,
+                  "video":false,
+                  "title":"Ripe (With Decay)"
+               }
+            }
+         ],
+         "format":"CD"
+      }
+   ],
+   "status":"Official",
+   "country":"US",
+   "title":"The Fragile",
+   "status-id":"4e304316-386d-3409-af2e-78857eec5cfe",
+   "barcode":"606949047320",
+   "packaging-id":"8f931351-d2e2-310f-afc6-37b89ddba246",
+   "id":"a4864e94-6d75-4ade-bc93-0dabf3521453",
+   "disambiguation":"",
+   "release-group":{
+      "primary-type":"Album",
+      "title":"The Fragile",
+      "artist-credit":null,
+      "secondary-type-ids":[
+
+      ],
+      "disambiguation":"",
+      "id":"fc4d7589-a6b9-35ca-a6b6-8c8e70c3baaa",
+      "primary-type-id":"f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types":[
+
+      ],
+      "first-release-date":"1999-09-20"
+   },
+   "cover-art-archive":{
+      "artwork":true,
+      "back":true,
+      "darkened":false,
+      "front":true,
+      "count":2
+   },
+   "date":"1999-09-21",
+   "release-events":[
+      {
+         "area":{
+            "name":"United States",
+            "sort-name":"United States",
+            "iso-3166-1-codes":[
+               "US"
+            ],
+            "id":"489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation":""
+         },
+         "date":"1999-09-21"
+      }
+   ],
+   "artist-credit":[
+      {
+         "artist":{
+            "name":"Nine Inch Nails",
+            "sort-name":"Nine Inch Nails",
+            "disambiguation":"",
+            "id":"b7ffd2af-418f-4be2-bdd1-22f8b48613da"
+         },
+         "name":"Nine Inch Nails",
+         "joinphrase":""
+      }
+   ],
+   "quality":"normal"
+}
